@@ -4,3 +4,6 @@ Name: Rashid Wassan
 GitHub username: rashidwassan
 Favourite Language: Dart
 
+Name: Rohat Iftikhar
+GitHub username: Rohat-Iftikhar
+Favourite Language: Java
