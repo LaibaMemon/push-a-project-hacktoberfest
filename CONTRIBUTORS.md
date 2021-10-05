@@ -19,3 +19,7 @@ Favourite Language: Java and Dart
 Name: Abdul Hadi Butt
 GitHub username: Hadibuttt
 Favourite Language: PHP and C++
+
+Name: Anirudha Surve
+GitHub username: Anirudha10
+Favourite Language: Python and C++
