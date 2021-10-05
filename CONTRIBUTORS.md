@@ -19,3 +19,7 @@ Favourite Language: Java and Dart
 Name: Abdul Hadi Butt
 GitHub username: Hadibuttt
 Favourite Language: PHP and C++
+
+Name: Muhammad Yasir
+GitHub username: Yasir36
+Favourite Language: Java
