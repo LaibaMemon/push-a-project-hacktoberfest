@@ -11,3 +11,7 @@ Favourite Language: Java
 Name: Alwaz Qazi
 GitHub username: Alwaz
 Favourite Language: JavaScript and Python
+
+Name: Abdul Hadi Butt
+GitHub username: Hadibuttt
+Favourite Language: PHP and C++
