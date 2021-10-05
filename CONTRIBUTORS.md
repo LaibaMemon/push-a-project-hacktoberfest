@@ -23,3 +23,7 @@ Favourite Language: PHP and C++
 Name: Anirudha Surve
 GitHub username: Anirudha10
 Favourite Language: Python and C++
+
+Name: Muhammad Yasir
+GitHub username: Yasir36
+Favourite Language: Java
