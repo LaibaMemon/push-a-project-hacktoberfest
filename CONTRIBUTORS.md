@@ -27,3 +27,7 @@ Favourite Language: Python and C++
 Name: Muhammad Yasir
 GitHub username: Yasir36
 Favourite Language: Java
+
+Name: Iqra Ghani
+GitHub username: iqraghani0450
+Favourite Language: Java
