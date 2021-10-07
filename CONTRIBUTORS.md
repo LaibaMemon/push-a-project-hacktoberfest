@@ -31,3 +31,7 @@ Favourite Language: Java
 Name: Iqra Ghani
 GitHub username: iqraghani0450
 Favourite Language: Java
+
+Name:Ashan Tharaka
+GitHub username:ashan-tharaka
+Favourite Language-Java
