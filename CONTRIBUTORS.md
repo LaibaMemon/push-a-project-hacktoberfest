@@ -34,4 +34,4 @@ Favourite Language: Java
 
 Name: Shubham Singh
 Github username: shubham-singh-748
-Favourite Language: Java
+Favourite Lang: Java
