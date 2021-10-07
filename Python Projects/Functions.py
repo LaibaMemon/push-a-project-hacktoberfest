@@ -11,3 +11,11 @@ def subtwo(c,d):
 
 y=subtwo(4,4)
 print(y)
+
+def my_function(country = "Country"):
+  print("I am from " + country)
+
+my_function("Sweden")
+my_function("India")
+my_function()
+my_function("Brazil")
