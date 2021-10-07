@@ -31,3 +31,7 @@ Favourite Language: Java
 Name: Iqra Ghani
 GitHub username: iqraghani0450
 Favourite Language: Java
+
+Name: Shubham Singh
+Github username: shubham-singh-748
+Favourite Language: C++ and Java
