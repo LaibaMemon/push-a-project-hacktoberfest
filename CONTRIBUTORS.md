@@ -31,3 +31,7 @@ Favourite Language: Java
 Name: Iqra Ghani
 GitHub username: iqraghani0450
 Favourite Language: Java
+
+Name: Yash Biyani
+GitHub username: biyaniyash23
+Favourite Language: Java
