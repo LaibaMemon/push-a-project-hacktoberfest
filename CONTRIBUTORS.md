@@ -35,3 +35,11 @@ Favourite Language: Java
 Name: Yash Biyani
 GitHub username: biyaniyash23
 Favourite Language: Java
+
+Name: Shubham Singh
+Github username: shubham-singh-748
+Favourite Language: C++ and Java
+
+Name:Ashan Tharaka
+GitHub username:ashan-tharaka
+Favourite Language-Java
