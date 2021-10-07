@@ -35,3 +35,7 @@ Favourite Language: Java
 Name: Shubham Singh
 Github username: shubham-singh-748
 Favourite Lang: Java
+
+Name:Ashan Tharaka
+GitHub username:ashan-tharaka
+Favourite Language-Java
